@@ -1,0 +1,26 @@
+body {
+  background-color: #ffd36b;
+
+}
+
+.Header{
+  background-color: #eebb4d ;
+}
+.NavigationBar{
+  background-color: #eebb4d ;
+}
+
+
+.Products{
+  margin-left: 100px;
+}
+
+.Pimg{
+  height: 300px ;
+  width: 300px;
+}
+
+.Footer{
+  background-color: #eebb4d ;
+  height: 150px;
+}
